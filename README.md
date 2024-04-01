@@ -9,3 +9,8 @@ marketing.
 ## The Goal
 The goal is to refactor the code and make sure it is accessible.
 
+## Links
+Link to Live Site: [(https://cloudofalemar.github.io/accessible-horiseon/)]
+
+## Screenshot
+![Screenshot of the Horiseon Webpage](./assets/images/screenshot-horiseon.png)
